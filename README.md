@@ -19,7 +19,7 @@ notes：学习前端做的笔记（仅做存储，不推荐全看，历史遗留
 - [x] [09_Diff算法与Key](https://github.com/yesmore/pre-interview/blob/main/src/09_Diff%E7%AE%97%E6%B3%95%E4%B8%8EKey.md)
 - [x] [10_ES6-ES12](https://github.com/yesmore/pre-interview/blob/main/src/10_ES6-ES12.md)
 - [x] [11_浏览器存储](https://github.com/yesmore/pre-interview/blob/main/src/11_%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%98%E5%82%A8.md)
-- [x] [12_CDN内容分发网络]()
+- [x] [12_CDN内容分发网络](https://github.com/yesmore/pre-interview/blob/main/src/12_CDN%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C.md)
 - [ ] [13_Promise](https://github.com/yesmore/pre-interview/blob/main/src/13_Promise.md)
-- [x] [14_Http缓存详解]()
+- [x] [14_Http缓存详解](https://github.com/yesmore/pre-interview/blob/main/src/14_Http%E7%BC%93%E5%AD%98%E8%AF%A6%E8%A7%A3.md)
 
