@@ -22,6 +22,8 @@ notes：学习前端做的笔记（仅做存储，不推荐全看，因为历史
 - [x] [12_CDN 内容分发网络](https://github.com/yesmore/pre-interview/blob/main/src/12_CDN%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C.md)
 - [ ] [13_Promise](https://github.com/yesmore/pre-interview/blob/main/src/13_Promise.md)
 - [x] [14_Http 缓存详解](https://github.com/yesmore/pre-interview/blob/main/src/14_Http%E7%BC%93%E5%AD%98%E8%AF%A6%E8%A7%A3.md)
-- [] [15_object](https://github.com/yesmore/pre-interview/blob/main/src/)
-- [x] [16\_一道 function 面试题](https://github.com/yesmore/pre-interview/blob/main/src/)
-- [x] [17\_从 Array.from 理解类数组](https://github.com/yesmore/pre-interview/blob/main/src/)
+- [ ] [15_object](https://github.com/yesmore/pre-interview/blob/main/src/15_object.md)
+- [x] [16\_一道 function 面试题](https://github.com/yesmore/pre-interview/blob/main/src/16_%E4%B8%80%E9%81%93function%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+- [x] [17\_从 Array.from 理解类数组](https://github.com/yesmore/pre-interview/blob/main/src/17_%E4%BB%8EArray.from%E7%90%86%E8%A7%A3%E7%B1%BB%E6%95%B0%E7%BB%84.md)
+- [x] [18_new Object()](https://github.com/yesmore/pre-interview/blob/main/src/18_new Object())
+
