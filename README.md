@@ -1,8 +1,6 @@
 # pre-interview 二喵同志的面试之路
 
-src：前端常见面试考点，均为随机收集或总结知识点 😎
-
-notes：学习前端做的笔记（仅做存储，不推荐全看，因为历史遗留问题导致部分格式比较乱）
+src：前端常见面试考点，均为随机收集或总结知识点 😎（本仓库首发，博客不定时同步，欢迎Pr）。
 
 ---
 
@@ -25,5 +23,8 @@ notes：学习前端做的笔记（仅做存储，不推荐全看，因为历史
 - [ ] [15_object](https://github.com/yesmore/pre-interview/blob/main/src/15_object.md)
 - [x] [16\_一道 function 面试题](https://github.com/yesmore/pre-interview/blob/main/src/16_%E4%B8%80%E9%81%93function%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [x] [17\_从 Array.from 理解类数组](https://github.com/yesmore/pre-interview/blob/main/src/17_%E4%BB%8EArray.from%E7%90%86%E8%A7%A3%E7%B1%BB%E6%95%B0%E7%BB%84.md)
-- [x] [18_new_Object](https://github.com/yesmore/pre-interview/blob/main/src/18_new_Object)
+- [x] [18_new_Object](https://github.com/yesmore/pre-interview/blob/main/src/18_new%20Object().md)
+- [x] [19_稀疏数组的遍历问题](https://github.com/yesmore/pre-interview/blob/main/src/)
+- [x] [20_lookupGetter](https://github.com/yesmore/pre-interview/blob/main/src/20_lookupGetter)
+- [ ] [21_相等性判断](https://github.com/yesmore/pre-interview/blob/main/src/)
 

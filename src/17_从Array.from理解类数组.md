@@ -209,3 +209,58 @@ const newArr = Array.from(obj, function (item, index) {
 
 同理，数组遍历方法中，如 `forEach`, `filter`, `map`, reduce, reduceRight, `every`, `some`，都有回调函数和第三个参数。（reduce, reduceRight略微不同）
 
+最后再来一个问题：
+
+```js
+Array.from.length // ???
+```
+
+这段代码的意思是获取 `Array.from` 方法的**形参的长度**，那么聪明的你是不是已经想脱口而出了：**3**！
+
+错！
+
+在上面的案例中（`const newArr = Array.from(obj, function (item, index) {}, {}`），执行的时候传入的是实参列表，不是形参；
+
+正确答案是 **1**，Why？
+
+意思是 Array.from 必传一个参数，且第一个参数必须是 **类数组**或**可迭代对象**，例如，执行下面这段代码验证：
+
+```js
+Array.from()  // 不传参数
+
+// 控制台发生报错：
+Uncaught TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+    at Function.from (<anonymous>)
+```
+
+> 在原型中有 Symbol(Symbol.iterator)) 对象的都是可迭代的对象。
+>
+> 如 Map.prototype、String.prototype ...；
+>
+> 而 Object.prototype 则没有。
+
+```js
+var obj = {
+  a: 0,
+  b: 1,
+  C: 2
+}
+
+var newArr1 = Array.from(obj)
+console.log(newArr1); // > []
+```
+
+```js
+var obj = {
+  a: 0,
+  b: 1,
+  C: 2,
+  length: 3  
+}
+
+var newArr1 = Array.from(obj)
+console.log(newArr1); // > [undefined,undefined,undefined]
+
+// 找不到“0”、“1”、“2”
+```
+

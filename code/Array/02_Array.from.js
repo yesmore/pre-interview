@@ -38,3 +38,7 @@ const newArr = Array.from(obj, function (item, index) {
 // })
 
 console.log(newArr);
+
+
+console.log(Array.from.length);
+// Array.from()

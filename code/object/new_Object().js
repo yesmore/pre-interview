@@ -34,3 +34,19 @@ var newNum = new Number(b)
 console.log(newNum === b);
 newNum.a = 123
 console.log(newNum);
+
+
+var objx = {
+  a: 1,
+  b: 3,
+  c: 2
+}
+
+Object.defineProperty(objx, 'b', {
+  enumerable: false
+})
+
+console.log(Object.keys(objx));
+
+// 忽略描述符 - enumerable: false
+console.log(Object.getOwnPropertyNames(objx));
