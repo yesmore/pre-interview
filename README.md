@@ -28,3 +28,8 @@ src：前端常见面试考点，均为随机收集或总结知识点 😎（本
 - [x] [20_lookupGetter](https://github.com/yesmore/pre-interview/blob/main/src/20_lookupGetter)
 - [ ] [21_相等性判断](https://github.com/yesmore/pre-interview/blob/main/src/)
 
+
+
+# License
+
+MIT
