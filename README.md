@@ -1,6 +1,6 @@
 # pre-interview 二喵同志的面试之路
 
-src：前端常见面试考点，均为随机收集或总结知识点 😎（本仓库首发，博客不定时同步，欢迎Pr）。
+src：前端常见面试考点，均为随机收集或总结知识点 😎（本仓库首发，博客不定时同步，欢迎分享有趣的面试题~）。
 
 ---
 
@@ -26,7 +26,9 @@ src：前端常见面试考点，均为随机收集或总结知识点 😎（本
 - [x] [18_new_Object](https://github.com/yesmore/pre-interview/blob/main/src/18_new%20Object().md)
 - [x] [19_稀疏数组的遍历问题](https://github.com/yesmore/pre-interview/blob/main/src/)
 - [x] [20_lookupGetter](https://github.com/yesmore/pre-interview/blob/main/src/20_lookupGetter)
-- [ ] [21_相等性判断](https://github.com/yesmore/pre-interview/blob/main/src/)
+- [x] [21_相等性判断](https://github.com/yesmore/pre-interview/blob/main/src/21_%E7%9B%B8%E7%AD%89%E6%80%A7%E5%88%A4%E6%96%AD.md)
+- [x] [22_ES5深拷贝函数封装](https://github.com/yesmore/pre-interview/blob/main/src/22_ES5%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0%E5%B0%81%E8%A3%85.md)
+- [ ] [23_ES6深拷贝函数封装](https://github.com/yesmore/pre-interview/blob/main/src/23_ES6%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0%E5%B0%81%E8%A3%85.md)
 
 
 
