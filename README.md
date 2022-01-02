@@ -1,6 +1,6 @@
 # :blossom: pre-interview 二喵同志的面试之路
 
-src：前端常见面试考点，均为随机收集或总结知识点 😎（本仓库首发，博客不定时同步，欢迎分享有趣的面试题~）。
+**src**：前端常见面试考点，均为随机收集或总结知识点 😎（本仓库首发，[博客](https://yesmore.cc)不定期同步，欢迎分享有趣的面试题~）。
 
 ---
 
@@ -29,9 +29,25 @@ src：前端常见面试考点，均为随机收集或总结知识点 😎（本
 - [x] [21_相等性判断](https://github.com/yesmore/pre-interview/blob/main/src/21_%E7%9B%B8%E7%AD%89%E6%80%A7%E5%88%A4%E6%96%AD.md)
 - [x] [22_ES5深拷贝函数封装](https://github.com/yesmore/pre-interview/blob/main/src/22_ES5%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0%E5%B0%81%E8%A3%85.md)
 - [x] [23_ES6深拷贝函数封装](https://github.com/yesmore/pre-interview/blob/main/src/23_ES6%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0%E5%B0%81%E8%A3%85.md)
-- [ ] [24_重写forEach](https://github.com/yesmore/pre-interview/blob/main/src/)
+- [x] [24_重写forEach](https://github.com/yesmore/pre-interview/blob/main/src/24_%E9%87%8D%E5%86%99forEach.md)
 
 
+
+## 关于
+
+- 为什么要做这个仓库？
+
+  :moneybag:
+
+- 为什么不分类？
+
+  懒（~~bushi~~）...个人觉得都是零散的知识点，不像其他大佬成体系的知识归纳整理，咱就自己怎么舒服怎么弄，没必要花心思去分类；
+
+  再者，就是**不用局限自己眼界**，不管是读者还是我本人，是不是看着有分类目录下意识的就赶紧去找自己熟悉的那个领域的类别去了？反正都是查漏补缺，我这儿每篇文章的阅读量也不算大，不如“剑走偏锋”去了解一下，万一发现一个感兴趣的知识点，那也不亏呀！
+
+- 作者找到工作了吗？
+
+  没有。
 
 # License
 
