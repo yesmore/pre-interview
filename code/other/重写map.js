@@ -1,5 +1,3 @@
-// var deepClone = require('./ES6深拷贝函数封装')
-
 var arr = [{
     name: 'ssf',
     age: 22
