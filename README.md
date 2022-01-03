@@ -30,7 +30,11 @@
 - [x] [22_ES5深拷贝函数封装](https://github.com/yesmore/pre-interview/blob/main/src/22_ES5%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0%E5%B0%81%E8%A3%85.md)
 - [x] [23_ES6深拷贝函数封装](https://github.com/yesmore/pre-interview/blob/main/src/23_ES6%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%87%BD%E6%95%B0%E5%B0%81%E8%A3%85.md)
 - [x] [24_重写forEach](https://github.com/yesmore/pre-interview/blob/main/src/24_%E9%87%8D%E5%86%99forEach.md)
-- [x] [25_重写map](https://github.com/yesmore/pre-interview/blob/main/src/24_%E9%87%8D%E5%86%99map.md)
+- [x] [25_重写map](https://github.com/yesmore/pre-interview/blob/main/src/25_%E9%87%8D%E5%86%99map.md)
+- [x] [26_重写filter](https://github.com/yesmore/pre-interview/blob/main/src/26_%E9%87%8D%E5%86%99filter.md)
+- [x] [27_重写every](https://github.com/yesmore/pre-interview/blob/main/src/27_%E9%87%8D%E5%86%99every.md)
+- [x] [28_重写some](https://github.com/yesmore/pre-interview/blob/main/src/28_%E9%87%8D%E5%86%99some.md)
+- [x] [29_重写reduce&reduceRight](https://github.com/yesmore/pre-interview/blob/main/src/29_%E9%87%8D%E5%86%99reduce&reduceRight.md)
 
 
 
