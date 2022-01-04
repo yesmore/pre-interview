@@ -37,7 +37,7 @@
 - [x] [29_重写reduce&reduceRight](https://github.com/yesmore/pre-interview/blob/main/src/29_%E9%87%8D%E5%86%99reduce&reduceRight.md)
 - [x] [30_原型](https://github.com/yesmore/pre-interview/blob/main/src/30_%E5%8E%9F%E5%9E%8B.md)
 - [x] [31_Function](https://github.com/yesmore/pre-interview/blob/main/src/31_Function%E8%80%83%E7%82%B9.md)
-- [ ] [32_](https://github.com/yesmore/pre-interview/blob/main/src/32_.md)
+- [x] [32_4道function面试题](https://github.com/yesmore/pre-interview/blob/main/src/32_.md)
 
 
 
@@ -50,8 +50,8 @@
 为什么不分类？
 
 - 懒（~~bushi~~）...个人觉得都是零散的知识点，不像其他大佬成体系的知识归纳整理，咱就自己怎么舒服怎么弄，没必要花心思去分类；
-
-- 再者，就是**不用局限自己眼界**，不管是读者还是我本人，是不是看着有分类目录下意识的就赶紧去找自己熟悉的那个领域的类别去了？反正都是查漏补缺，我这儿每篇文章的阅读量也不算大，不如“剑走偏锋”去了解一下，万一发现一个感兴趣的知识点，那也不亏呀！
+- 目前为止基本都是前端必备知识范畴，不需要分类；
+- 再者，就是**不要局限自己眼界**，不管是读者还是我本人，是不是看着有分类目录下意识的就赶紧去找自己熟悉的那个领域的类别去了？反正都是查漏补缺，我这儿每篇文章的阅读量也不算大，不如“剑走偏锋”去了解一下，万一发现一个感兴趣的知识点，那也不亏呀！
 
 作者找到工作了吗？
 
