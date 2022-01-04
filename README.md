@@ -36,7 +36,8 @@
 - [x] [28_重写some](https://github.com/yesmore/pre-interview/blob/main/src/28_%E9%87%8D%E5%86%99some.md)
 - [x] [29_重写reduce&reduceRight](https://github.com/yesmore/pre-interview/blob/main/src/29_%E9%87%8D%E5%86%99reduce&reduceRight.md)
 - [x] [30_原型](https://github.com/yesmore/pre-interview/blob/main/src/30_%E5%8E%9F%E5%9E%8B.md)
-- [ ] [31_Function]()
+- [x] [31_Function](https://github.com/yesmore/pre-interview/blob/main/src/31_Function%E8%80%83%E7%82%B9.md)
+- [ ] [32_](https://github.com/yesmore/pre-interview/blob/main/src/32_.md)
 
 
 

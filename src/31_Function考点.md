@@ -204,3 +204,17 @@ eval(`!${code}()`) // t1
 
 
 
+## ES6转ES5 - Function的应用
+
+`new Function()` 的应用一般用于**执行字符串程序**，如ES6转ES5。
+
+### 原理
+
+处理过程：`前端` -> `字符串的ES6代码` -> `后端(express)` -> `字符串中的ES6部分` -> `ES5` -> `新的字符串代码` -> `前端` -> `new Function声明函数` -> `传入字符串代码`
+
+> 前置知识点：[31_new Function](https://github.com/yesmore/pre-interview/blob/main/src/31_Function%E8%80%83%E7%82%B9.md)
+
+> 注意：这个案例省略了一个步骤：ES6 - **AST树** -ES5
+
+源码：[ES6tES5]()
+
