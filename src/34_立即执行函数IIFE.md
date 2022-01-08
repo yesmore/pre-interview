@@ -112,3 +112,8 @@ test3() // 报错：Uncaught ReferenceError: test3 is not defined
 - 执行完以后，自动销毁；
 - ES3、ES5立场上是没有模块概念（封闭作用域、抛出接口），IIFE可以模拟模块化；
 - 它可以向外部抛出一系列属性和方法，或在window上保存属性和方法。
+
+> 实践
+>
+> [使用IIFE完成一个原生Tab插件](https://github.com/yesmore/pre-interview/tree/main/practices/%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0)
+

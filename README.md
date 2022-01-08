@@ -39,6 +39,7 @@
 - [x] [31_Function](https://github.com/yesmore/pre-interview/blob/main/src/31_Function%E8%80%83%E7%82%B9.md)
 - [x] [32_4道function面试题](https://github.com/yesmore/pre-interview/blob/main/src/32_4%E9%81%93function%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [x] [33_function面试题-同步与异步](https://github.com/yesmore/pre-interview/blob/main/src/33_function%E9%9D%A2%E8%AF%95%E9%A2%98-%E5%90%8C%E6%AD%A5%E5%BC%82%E6%AD%A5.md)
+- [x] [34_立即执行函数IIFE](https://github.com/yesmore/pre-interview/blob/main/src/34_%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0IIFE.md)
 
 
 
