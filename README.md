@@ -40,24 +40,10 @@
 - [x] [32_4道function面试题](https://github.com/yesmore/pre-interview/blob/main/src/32_4%E9%81%93function%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [x] [33_function面试题-同步与异步](https://github.com/yesmore/pre-interview/blob/main/src/33_function%E9%9D%A2%E8%AF%95%E9%A2%98-%E5%90%8C%E6%AD%A5%E5%BC%82%E6%AD%A5.md)
 - [x] [34_立即执行函数IIFE](https://github.com/yesmore/pre-interview/blob/main/src/34_%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0IIFE.md)
+- [x] [35_循环遍历迭代]()
+- [x] [36_undefined相关问题]()
 
 
-
-## 关于
-
-为什么要做这个仓库？
-
-- :moneybag:
-
-为什么不分类？
-
-- 懒（~~bushi~~）...个人觉得都是零散的知识点，不像其他大佬成体系的知识归纳整理，咱就自己怎么舒服怎么弄，没必要花心思去分类；
-- 目前为止基本都是前端必备知识范畴，不需要分类；
-- 再者，就是**不要局限自己眼界**，不管是读者还是我本人，是不是看着有分类目录下意识的就赶紧去找自己熟悉的那个领域的类别去了？反正都是查漏补缺，我这儿每篇文章的阅读量也不算大，不如“剑走偏锋”去了解一下，万一发现一个感兴趣的知识点，那也不亏呀！
-
-作者找到工作了吗？
-
-- 没有。
 
 # License
 
