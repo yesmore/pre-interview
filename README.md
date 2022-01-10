@@ -2,9 +2,7 @@
 
 **src**：前端常见面试考点，均为随机收集或总结知识点 😎（本仓库首发，[博客](https://yesmore.cc)不定期同步，欢迎分享有趣的面试题~）。
 
----
-
-**目录**（src）
+## 目录（src）
 
 - [x] [01_https 传输原理](https://github.com/yesmore/pre-interview/blob/main/src/01_https%E4%BC%A0%E8%BE%93%E5%8E%9F%E7%90%86.md)
 - [x] [02_js 数据类型](https://github.com/yesmore/pre-interview/blob/main/src/02_js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
@@ -40,12 +38,14 @@
 - [x] [32_4道function面试题](https://github.com/yesmore/pre-interview/blob/main/src/32_4%E9%81%93function%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [x] [33_function面试题-同步与异步](https://github.com/yesmore/pre-interview/blob/main/src/33_function%E9%9D%A2%E8%AF%95%E9%A2%98-%E5%90%8C%E6%AD%A5%E5%BC%82%E6%AD%A5.md)
 - [x] [34_立即执行函数IIFE](https://github.com/yesmore/pre-interview/blob/main/src/34_%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0IIFE.md)
-- [x] [35_循环遍历迭代]()
-- [x] [36_undefined相关问题]()
+- [x] [35_循环遍历迭代](https://github.com/yesmore/pre-interview/blob/main/src/35_%E5%BE%AA%E7%8E%AF%E9%81%8D%E5%8E%86%E8%BF%AD%E4%BB%A3.md)
+- [x] [36_undefined相关问题](https://github.com/yesmore/pre-interview/blob/main/src/36_undefined%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+- [ ] [37_Object.defineProperty](https://github.com/yesmore/pre-interview/blob/main/src/37_Object.defineProperty.md)
+- [ ] [38_Object.defineProperty面试题](https://github.com/yesmore/pre-interview/blob/main/src/)
 
 
 
-# License
+## License
 
 MIT
 
