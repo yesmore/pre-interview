@@ -1,21 +1,25 @@
 ##                                                													PLANa
 
-|        目录        |    集     |          /           |   </>   |
-| :----------------: | :-------: | :------------------: | :-----: |
-|       js逆向       | 25 / 107  |    自学还得看教父    |         |
-|       docker       |  1 / 34   |        尚硅谷        |         |
-|      pytorch       |  14 / 33  |        小土堆        |         |
-|     白嫖面试题     |    4-2    |                      |         |
-|      vue+vite      |   3/18    |      前端实习生      |         |
-| **React**+**antD** |  11 / 63  |       学习猿地       |         |
-|      web安全       |  1 / 20   |                      |         |
-|        爬虫        | 43 / 100  |                      | pycharm |
-|      HmOS开发      |  3 / 49   |         黑马         |         |
-|     **React**      |  56/ 154  |       谷粒天宇       |    x    |
-|  **vue+element**   |  1 / 208  | 后台管理项目（前端） |    x    |
-|     nestjs+vue     | 第二章 14 |   全栈之巅视频网站   |         |
-|     Babylon.js     |     /     |          /           |    x    |
-|       Golang       |  17 / 52  |          冰          | vscode  |
+|                             目录                             |    集     |          /           |   </>   |
+| :----------------------------------------------------------: | :-------: | :------------------: | :-----: |
+| [Pinia](https://www.bilibili.com/video/BV11Y411b7nb?from=search&seid=1116305703221765130&spm_id_from=333.337.0.0) |  1 / 11   |         JS++         |         |
+| [vue源码重写](https://www.bilibili.com/video/BV1Ti4y1w7TL?spm_id_from=333.999.0.0) |  2 / 21   |         JS++         |         |
+| [vue脚手架实现](https://www.bilibili.com/video/BV12v411s7T7?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click) |   1 / 2   |        codey         |         |
+|                          Vue3 + TS                           |  1 / 44   |        codey         |         |
+|                            js逆向                            | 25 / 107  |    自学还得看教父    |         |
+|                            docker                            |  1 / 34   |        尚硅谷        |         |
+|                           pytorch                            |  14 / 33  |        小土堆        |         |
+|                          白嫖面试题                          |    4-2    |                      |         |
+|                           vue+vite                           |   3/18    |      前端实习生      |         |
+|                      **React**+**antD**                      |  11 / 63  |       学习猿地       |         |
+|                           web安全                            |  1 / 20   |                      |         |
+|                             爬虫                             | 43 / 100  |                      | pycharm |
+|                           HmOS开发                           |  3 / 49   |         黑马         |         |
+|                          **React**                           |  56/ 154  |       谷粒天宇       |    x    |
+|                       **vue+element**                        |  1 / 208  | 后台管理项目（前端） |    x    |
+|                          nestjs+vue                          | 第二章 14 |   全栈之巅视频网站   |         |
+|                          Babylon.js                          |     /     |          /           |    x    |
+|                            Golang                            |  17 / 52  |          冰          | vscode  |
 
 ---
 

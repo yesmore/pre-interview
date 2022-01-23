@@ -40,8 +40,8 @@
 - [x] [34_立即执行函数IIFE](https://github.com/yesmore/pre-interview/blob/main/src/34_%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0IIFE.md)
 - [x] [35_循环遍历迭代](https://github.com/yesmore/pre-interview/blob/main/src/35_%E5%BE%AA%E7%8E%AF%E9%81%8D%E5%8E%86%E8%BF%AD%E4%BB%A3.md)
 - [x] [36_undefined相关问题](https://github.com/yesmore/pre-interview/blob/main/src/36_undefined%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
-- [ ] [37_Object.defineProperty](https://github.com/yesmore/pre-interview/blob/main/src/37_Object.defineProperty.md)
-- [ ] [38_Object.defineProperty面试题](https://github.com/yesmore/pre-interview/blob/main/src/)
+- [x] [37_Object.defineProperty](https://github.com/yesmore/pre-interview/blob/main/src/37_Object.defineProperty.md)
+- [x] [38_Object.defineProperty面试题](https://github.com/yesmore/pre-interview/blob/main/src/38_Object.defineProperty%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 

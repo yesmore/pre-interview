@@ -35,9 +35,9 @@ Facebook开发开源
 【先引入react.development.js，后引入react-dom.development.js】
 
 ``` js
-react.development.js
-react-dom.development.js
-babel.min.js 
+react.development.js - 包含React所必须的核心代码
+react-dom.development.js - React渲染在不同平台所需要的核心代码
+babel.min.js - 将jsx转换成React代码的工具
 ```
 
 2.创建一个容器
@@ -81,7 +81,7 @@ babel.min.js
 
 4.内敛样式要使用双大括号{{}}包裹
 
-5.不能有多个根标签，只能有一个跟标签
+5.不能有多个根标签，**只能有一个跟标签**
 
 6.标签必须闭合
 
@@ -163,6 +163,17 @@ babel.min.js
 </html>
 ```
 
+注意事项: 使用jsx, 并且希望script中的jsx的代码被解析, 必须在script标签中添加一个属性
+
+```js
+<!-- 添加React的依赖 -->
+  <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+```
+
+
+
 ## 两种创建虚拟DOM的方式
 
 **1.使用JSX创建虚拟DOM**
@@ -202,7 +213,7 @@ const VDOM = React.createElement('h1',{id:"title"},"nihao")
 
 > **注意：** 组件名称必须以大写字母开头。
 >
-> React 会将以小写字母开头的组件视为原生 DOM 标签。例如，< div />` 代表 HTML 的 div 标签，而 `< Weclome /> 则代表一个组件，并且需在作用域内使用 `Welcome`
+> React 会将以小写字母开头的组件视为原生 DOM 标签。例如，`< div />` 代表 HTML 的 `div` 标签，而 `< Weclome />` 则代表一个组件，并且需在作用域内使用 `Welcome`
 >
 > 传递的参数，不能在组件中改动
 
