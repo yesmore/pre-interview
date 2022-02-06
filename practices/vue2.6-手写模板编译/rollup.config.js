@@ -6,8 +6,8 @@ export default {
   input: './src/index.js', // 入口文件
   output: { // 打包
     format: 'umd', // 生成包的格式
-    name: 'Vue', // 包名
-    file: 'dist/umd/vue.js', // 打包后的文件名
+    name: 'Yue', // 包名
+    file: 'dist/umd/yue.js', // 打包后的文件名
     sourceMap: true, // 是否生成sourceMap
   },
   plugins: [
