@@ -4,6 +4,9 @@ import {
 import {
   compileToRenderFunction
 } from './compiler'
+import {
+  mountComponent
+} from './lifecycle'
 
 function initMixin(Yue) {
   Yue.prototype._init = function (options) {
@@ -16,7 +19,7 @@ function initMixin(Yue) {
     initState(vm)
     // 初始化其他状态...
 
-    // 
+    // 初始化渲染函数
     if (vm.$options.el) {
       // 执行挂载函数(yue.prototype.$mount)
       vm.$mount(vm.$options.el)
@@ -41,6 +44,8 @@ function initMixin(Yue) {
       const render = compileToRenderFunction(template)
       options.render = render
     }
+
+    mountComponent(vm)
   }
 }
 

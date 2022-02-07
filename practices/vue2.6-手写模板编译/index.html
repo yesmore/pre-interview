@@ -10,14 +10,15 @@
 
 <body>
   <div id='app' style="color: red;font-size: 20px">
-    hello {{name}}
+    hello {{name}} 同学
+    <span class="text" style="color:greenyellow">{{ age }}</span>
+    <p>大家都来卷</p>
     <h1>{{ name }}</h1>
     <ul>
       <li style="color: chartreuse">{{ age }}</li>
-      <li>{{ info.job }}</li>
+      <li>{{ info.teachers }}</li>
     </ul>
   </div>
-
   <script src="dist/umd/yue.js"></script>
   <script>
     // render > template > el
@@ -42,7 +43,7 @@
       }
     })
 
-    console.log(vm);
+    // console.log(vm);
   </script>
 </body>
 
