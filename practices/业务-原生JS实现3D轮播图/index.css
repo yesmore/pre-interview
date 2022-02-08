@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.slider-3d {
+  position: relative;
+  width: 1000px;
+  margin: 100px auto;
+}
+
+img {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.slider-item {
+  position: absolute;
+  box-shadow: 10px 10px 10px rgb(102, 102, 102);
+  border-radius: 10px;
+  transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+  /* transition: opacity 0.6s linear,
+              width 0.6s linear,
+              height 0.6s linear,
+              top 0.6s linear,
+              left 0.6s linear,
+              transform 0.6s linear; */
+}
+
+.slider-item.first {
+  /* 方案一 */
+  /* top: 80px;
+  left: 200px; */
+  z-index: 3;
+  width: 600px;
+
+  /* 方案二 */
+  transform: translate3d(200px, 80px, 0)
+}
+
+.slider-item.third {
+   /* 方案一 */
+  /* top: 50px;
+  left: 350px; */
+  z-index: 1;
+  width: 300px;
+  opacity: 0.4;
+
+  /* 方案二 */
+  transform: translate3d(350px, 50px, 0)
+}
+
+.slider-item.second {
+  /* 方案一 */
+  /* top: 138px; */
+  z-index: 2;
+  width: 400px;
+  opacity: 0.6;
+}
+
+.slider-item.second.left {
+  /* 方案一 */
+  /* left: 0; */
+  
+  /* 方案二 */
+  transform: translate3d(0, 138px, 0)
+}
+
+.slider-item.second.right {
+  /* 方案一 */
+  /* left: 600px; */
+
+  /* 发案二 */
+  transform: translate3d(600px, 138px, 0)
+}
