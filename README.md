@@ -43,7 +43,7 @@
 - [x] [37_Object.defineProperty](https://github.com/yesmore/pre-interview/blob/main/src/37_Object.defineProperty.md)
 - [x] [38_Object.defineProperty面试题](https://github.com/yesmore/pre-interview/blob/main/src/38_Object.defineProperty%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [x] [39_Js模块化之路](https://github.com/yesmore/pre-interview/blob/main/src/)
-- [x] [40_数组去重](https://github.com/yesmore/pre-interview/blob/main/src/)
+- [x] [40_数组去重的八种方法](https://github.com/yesmore/pre-interview/blob/main/src/)
 
 
 
