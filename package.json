@@ -1,6 +1,6 @@
 {
   "name": "pre-interview",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "build": "git add ."
