@@ -16,7 +16,7 @@
 - [x] [10_ES6-ES12](https://github.com/yesmore/pre-interview/blob/master/src/10_ES6-ES12.md)
 - [x] [11\_浏览器存储](https://github.com/yesmore/pre-interview/blob/master/src/11_%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%98%E5%82%A8.md)
 - [x] [12_CDN 内容分发网络](https://github.com/yesmore/pre-interview/blob/master/src/12_CDN%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C.md)
-- [ ] [13_Promise](https://github.com/yesmore/pre-interview/blob/master/src/13_Promise.md)
+- [x] [13_手写Promise](https://github.com/yesmore/pre-interview/blob/master/src/13_手写Promise.md)
 - [x] [14_Http 缓存详解](https://github.com/yesmore/pre-interview/blob/master/src/14_Http%E7%BC%93%E5%AD%98%E8%AF%A6%E8%A7%A3.md)
 - [ ] [15_object](https://github.com/yesmore/pre-interview/blob/master/src/15_object.md)
 - [x] [16\_一道 function 面试题](https://github.com/yesmore/pre-interview/blob/master/src/16_%E4%B8%80%E9%81%93function%E9%9D%A2%E8%AF%95%E9%A2%98.md)
@@ -44,7 +44,9 @@
 - [x] [38_Object.defineProperty面试题](https://github.com/yesmore/pre-interview/blob/master/src/38_Object.defineProperty%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [x] [39_Js模块化之路](https://github.com/yesmore/pre-interview/blob/master/src/39_Js%E6%A8%A1%E5%9D%97%E5%8C%96%E4%B9%8B%E8%B7%AF.md)
 - [x] [40_数组去重的八种方法](https://github.com/yesmore/pre-interview/blob/master/src/40_%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%848%E7%A7%8D%E6%96%B9%E6%B3%95.md)
-- [ ] [41_数组扁平化与数组排序](https://github.com/yesmore/pre-interview/blob/master/src/)
+- [x] [41_数组扁平化与数组排序](https://github.com/yesmore/pre-interview/blob/master/src/41_数组扁平化与数组排序.md)
+- [x] [42_Proxy](https://github.com/yesmore/pre-interview/blob/master/src/42_Proxy.md)
+- [x] [43_14种对象操作方法](https://github.com/yesmore/pre-interview/blob/master/src/43_14种对象操作方法.md)
 
 
 
