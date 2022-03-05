@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>节流</title>
+</head>
+
+<body>
+  <input type="text">
+  <button id="btn2">取消</button>
+
+  <script src="./05.throttle函数返回值.js"></script>
+
+  <script>
+    const inpEl = document.querySelector('input');
+    const btnEl2 = document.querySelector('#btn2');
+    let counter = 0;
+
+    const handleChange = (event) => {
+      console.log(`发送第${counter++}次请求, input: ${event}`, );
+      return 'I have been changed';
+    }
+
+    const handleClick = (e) => {
+      console.log(`点点点${counter++}`)
+    }
+
+    const _tthrottle = throttle(handleChange, 2000, {
+      leading: true, // 第一次是否执行 true: 执行 | false: 不执行
+      trailing: true, // 最后一次是否执行 true: 执行 | false: 不执行
+      resultCb: function (res) {
+        console.log('result from cb:', res);
+      }
+    })
+
+    const temp = () => {
+      _tthrottle().then(res => {
+        console.log('result from promise:', res);
+      })
+    }
+    inpEl.addEventListener('input', temp);
+
+    btnEl2.addEventListener('click', function () {
+      _tthrottle.cancel();
+    });
+  </script>
+</body>
+
+</html>

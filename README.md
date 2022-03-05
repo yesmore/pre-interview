@@ -47,6 +47,7 @@
 - [x] [41_数组扁平化与数组排序](https://github.com/yesmore/pre-interview/blob/master/src/41_数组扁平化与数组排序.md)
 - [x] [42_Proxy](https://github.com/yesmore/pre-interview/blob/master/src/42_Proxy.md)
 - [x] [43_14种对象操作方法](https://github.com/yesmore/pre-interview/blob/master/src/43_14种对象操作方法.md)
+- [x] [44_防抖与节流](https://github.com/yesmore/pre-interview/blob/master/src/44_防抖与节流函数.md)
 
 
 
