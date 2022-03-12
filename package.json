@@ -1,10 +1,7 @@
 {
   "name": "pre-interview",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
-  "scripts": {
-    "build": "git add ."
-  },
   "repository": "git@github.com:yesmore/pre-interview.git",
   "author": "song <3224266014@qq.com>",
   "license": "MIT"

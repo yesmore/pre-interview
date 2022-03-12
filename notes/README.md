@@ -5,7 +5,7 @@
 | [Wasm](https://www.bilibili.com/video/BV19a41127Dq?from=search&seid=6016756830979640506) | 1 / 18 |   原子   |      |
 |                             rust                             | 1/110  | 软件工艺 |      |
 |                                                              |        |          |      |
-|                           前端之路                           |        |   js++   |      |
+|                                                              |        |          |      |
 |                                                              |        |          |      |
 |                                                              |        |          |      |
 |                                                              |        |          |      |
