@@ -1,0 +1,14 @@
+{
+  "name": "ast-babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js -o output.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.17.7",
+    "@babel/types": "^7.17.0",
+    "babel-cli": "^6.26.0"
+  }
+}
