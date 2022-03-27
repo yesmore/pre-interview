@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    #canvas {
+      box-shadow: 0 0 10px #000;
+      position: absolute;
+      left: 10%;
+      top: 5%;
+    }
+  </style>
+</head>
+
+<body>
+  <canvas id="canvas"></canvas>
+
+  <script src="../script/utils.js"></script>
+  <script src="../components/Arrow.js"></script>
+  <script>
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+
+    let W = canvas.width = 600
+    let H = canvas.height = 400
+
+    let mouse = C.getOffset(canvas) // 获取鼠标位置
+
+    const arrow = new Arrow({
+      x: W / 2,
+      y: H / 2,
+      w: 100,
+      h: 60,
+    }).render(ctx)
+
+    canvas.addEventListener('mousemove', e => {
+      // 鼠标坐标点与箭头中心路线的角度
+      let dx = mouse.x - arrow.x
+      let dy = mouse.y - arrow.y
+      arrow.rotation = Math.atan2(dy, dx)
+
+      ctx.clearRect(0, 0, W, H)
+      arrow.render(ctx)
+    }, false)
+  </script>
+</body>
+
+</html>
